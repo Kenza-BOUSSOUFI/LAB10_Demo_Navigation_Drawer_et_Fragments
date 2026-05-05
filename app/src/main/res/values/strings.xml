@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MaSuperAppNavigation</string>
+    <string name="navigation_drawer_open">Ouvrir le menu</string>
+    <string name="navigation_drawer_close">Fermer le menu</string>
+    <string name="menu_home_title">Accueil</string>
+    <string name="menu_settings_title">Paramètres</string>
+    <string name="menu_summary_title">Résumé</string>
+</resources>
